@@ -1,6 +1,7 @@
 # David-Goggins-Chat
 This is my David Goggins Chat (used ChatGPT API for this)
 
+To make this work you have to put your API key in correct place
 
 ![Screenshot from 2024-07-29 21-39-51](https://github.com/user-attachments/assets/1a702787-afe0-4111-b83c-224584590888)
 
